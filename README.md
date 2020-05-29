@@ -1,1 +1,1 @@
-# Machine-Learning
+# AD470-DATA-SCIENCE-PRACTICUM
